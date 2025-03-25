@@ -49,17 +49,13 @@ Follow these steps to set up the bot:
    source .venv/bin/activate  
    ```
 
-4. Install the required dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-5. **Install FFmpeg**:
+4. **Install FFmpeg**:
    - Download it from [FFmpeg](https://ffmpeg.org/download.html).
    - Ensure FFmpeg is in your system’s PATH.
 
-6. **Set your Discord bot token**:
+5. **Set your Discord bot token**:
    - Create a `.env` file in the root directory.
    - Add your bot's token:
 
