@@ -45,7 +45,7 @@ Follow these steps to set up the bot:
 
    ```bash
    python -m venv .venv
-   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   source .venv/bin/activate  
    ```
 
 4. Install the required dependencies:
