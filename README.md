@@ -38,7 +38,7 @@ Follow these steps to set up the bot:
 2. Change to the project directory:
 
    ```bash
-   cd your-repo-name
+   cd bot_discord
    ```
 
 3. Create and activate a virtual environment:
