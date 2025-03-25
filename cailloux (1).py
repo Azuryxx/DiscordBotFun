@@ -12,7 +12,7 @@ from datetime import datetime
 import yt_dlp
 import re
 
-TOKEN = os.environ.get('DISCORD_TOKEN', '')
+TOKEN = os.environ.get('DISCORD_TOKEN', '') ###Token here
 GOOGLE_API_KEY = os.environ.get('GOOGLE_API_KEY', 'AIzaSyAQIum9S1_I-K3nKBkhXL7OjGuvZ5HQrx8')
 GOOGLE_CX = os.environ.get('GOOGLE_CX', 'd34dddde8063b48ed')
 STATUS_UPDATE_INTERVAL = 60
