@@ -10,6 +10,7 @@ Welcome to **Azuryy_**'s first Discord bot project! 🎉 This bot is designed to
 - **Join voice channels**
 - **Play music in voice channels**
 - **Respond to commands**
+- more command :)
 
 ---
 
@@ -91,8 +92,8 @@ if __name__ == "__main__":
 
 ## Available Commands
 
-- `!help`: Shows a list of available commands.
-- `!pomme`: Makes the bot join a voice channel and play a predefined song.
+- `!aide`: Shows a list of available commands.
+- `!play[URL]`: Makes the bot join a voice channel and play a predefined song.
 
 ---
 
