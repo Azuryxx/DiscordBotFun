@@ -32,7 +32,7 @@ Follow these steps to set up the bot:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Azuryxx/bot_discord.git
    ```
 
 2. Change to the project directory:
